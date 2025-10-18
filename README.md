@@ -7,7 +7,7 @@
 - Lecture de texte  
 - Modification de texte  
 - Récupération de données via UDP  
-- Et bien d’autres fonctionnalités prévues  
+- Et bien d’autres fonctionnalités prévues (tels qu'avoir une vidéo en direct via adresse ip)  
 
 Le projet est en cours d’évolution et une **version mobile** sera bientôt disponible grâce à **Xamarin**, permettant de proposer une expérience similaire sur smartphones et tablettes.
 
